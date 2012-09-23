@@ -1,3 +1,6 @@
+
+<h2 style="color:red;">Obsolete. See <a href="https://github.com/FerGutierrez/pxGauge/>pxGauge</a>
+
 Pixel-Gauge
 ===========
 
