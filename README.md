@@ -1,7 +1,7 @@
 Pixel-Gauge
 ===========
 
-<h2 style="color:red;">Obsolete. See <a href="https://github.com/FerGutierrez/pxGauge/>pxGauge</a>
+<h2>Obsolete. See pxGauge</h2>
 
 <p>Measurment tool for distances in pixels inside websites.
 Originally it is just supposed to be a snippet, so if you paste it in a site you are working on, or in jsfiddle, jsbin,...you can portotype a bit faster and compare cross-browser responses.</p>
